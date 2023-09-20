@@ -1,0 +1,752 @@
+{
+    "Models": [
+        {
+            "Model 3": {
+                "EstDelivery": "Sep - Oct 2023",
+                "PurchasePrice": {
+                    "VehiclePrice": 40240
+                },
+                "Features": {
+                    "Range": 272,
+                    "TopSpeed": 140,
+                    "0to60mph": 5.8,
+                    "DriveType": "Rear-Wheel Drive"
+                },
+                "FederalTaxCredit": {
+                    "Amount": 7500,
+                    "Details": "All new Model 3 vehicles currently qualify for a federal tax credit for eligible buyers. Reductions likely after Dec 31."
+                },
+                "PriceDetails": "All prices are shown without incentives or est. 3-year gas savings of $3,000.",
+                "FeatureDetails": {
+                    "Motor": [
+                        {
+                            "Amount": 29740,
+                            "Details": "Model 3"
+                        },
+                        {
+                            "Amount": 36740,
+                            "Details": "Model 3 Long Range"
+                        },
+                        {
+                            "Amount": 42740,
+                            "Details": "Model 3 Performance"
+                        }
+                    ],
+                    "TowHitch": [
+                        {
+                            "Amount": 1000,
+                            "Details": "High strength, Class II steel tow bar capable of towing up to 3,500 lbs"
+                        }
+                    ],
+                    "Paint": [
+                        "Midnight Silver Metallic",
+                        "Pearl White Multi-Coat",
+                        "Deep Blue Metallic",
+                        "Solid Black",
+                        "Red Multi-Coat",
+                        "Midnight Silver Metallic"
+                    ],
+                    "Wheels": [
+                        "18’’ Aero Wheels",
+                        "19’’ Sport Wheels"
+                    ],
+                    "All_SeasonTires": "Range (EPA est.) : 272mi",
+                    "Interior": [
+                        "All Black",
+                        "Black and White"
+                    ],
+                    "Autopilot": {
+                        "EnhancedAutopilot": 6000,
+                        "Features": [
+                            "Navigate on Autopilot",
+                            "Auto Lane Change",
+                            "Autopark",
+                            "Summon",
+                            "Smart Summon"
+                        ],
+                        "FullSelf_DrivingCapability": {
+                            "Price": 12001,
+                            "CapabilityDetails": "Your car will be able to drive itself almost anywhere with minimal driver intervention and will continuously improve.",
+                            "Functionality": "All functionality of Basic Autopilot and EnhancedAutopilot.",
+                            "AdditionalFeatures": [
+                                "Autosteer on city streets",
+                                "Traffic Light and Stop Sign Control"
+                            ],
+                            "DriverSupervision": "The currently enabled features require active driver supervision and do not make the vehicle autonomous.",
+                            "ActivationandUse": "The activation and use of these features are dependent on achieving reliability far in excess of human drivers as demonstrated by billions of miles of experience, as well as regulatory approval, which may take longer in some jurisdictions.",
+                            "ContinuousUpgrades": "As these self-driving features evolve, your car will be continuously upgraded through over-the-air software updates."
+                        },
+                        "SoftwareOptionsExcluded": "Software options are excluded from the federal tax credit price cap"
+                    },
+                    "Charging": {
+                        "Homechargingequipment": "is not included",
+                        "WallConnector": 475,
+                        "MobileConnector": 230
+                    }
+                },
+                "Images": {
+                    "FrontView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PMNG,$W40B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0",
+                    "RimCloseup": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PMNG,$W40B,$IBB1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&crop=0,0,80,0",
+                    "RearView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PMNG,$W40B,$IBB1&view=STUD_REAR34&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0",
+                    "SideView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PMNG,$W40B,$IBB1&view=STUD_SIDEVIEW&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0",
+                    "InteriorView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$IBB1,$PMNG,$MT322&view=STUD_INTERIOR&model=m3&size=1441&bkba_opt=2&crop=0,0,0,0"
+                },
+                "OrderYourModel3": {
+                    "EstDelivery": "Sep - Oct 2023"
+                }
+            }
+        },
+        {
+            "Model X": {
+                "EstDelivery": "Oct - Nov 2023",
+                "PurchasePrice": {
+                    "VehiclePrice": 60250
+                },
+                "Features": {
+                    "Range": 350,
+                    "TopSpeed": 155,
+                    "0to60mph": 4.6,
+                    "DriveType": "All-Wheel Drive"
+                },
+                "FederalTaxCredit": {
+                    "Amount": 8500,
+                    "Details": "All new Model X vehicles currently qualify for a federal tax credit for eligible buyers. Reductions likely after Dec 31."
+                },
+                "PriceDetails": "All prices are shown without incentives or est. 3-year gas savings of $4,000.",
+                "FeatureDetails": {
+                    "Motor": [
+                        {
+                            "Amount": 68590,
+                            "Details": "Model X"
+                        },
+                        {
+                            "Amount": 86090,
+                            "Details": "Model X Plaid"
+                        }
+                    ],
+                    "TowHitch": [
+                        {
+                            "Amount": 1200,
+                            "Details": "High strength, Class II steel tow bar capable of towing up to 3,500 lbs"
+                        }
+                    ],
+                    "Paint": [
+                        "Solid Black",
+                        "Deep Blue Metallic",
+                        "Pearl White Multi-Coat",
+                        "Red Multi-Coat"
+                    ],
+                    "Wheels": [
+                        "20’’ Sonic Carbon Wheels",
+                        "22’’ Turbine Wheels"
+                    ],
+                    "All_SeasonTires": "Range (EPA est.) : 350mi",
+                    "Interior": [
+                        "All Black",
+                        "Black and White",
+                        "Black and Tan"
+                    ],
+                    "Autopilot": {
+                        "EnhancedAutopilot": 7000,
+                        "Features": [
+                            "Navigate on Autopilot",
+                            "Auto Lane Change",
+                            "Autopark",
+                            "Summon",
+                            "Smart Summon"
+                        ],
+                        "FullSelf_DrivingCapability": {
+                            "Price": 15000,
+                            "CapabilityDetails": "Your car will be able to drive itself almost anywhere with minimal driver intervention and will continuously improve.",
+                            "Functionality": "All functionality of Basic Autopilot and EnhancedAutopilot.",
+                            "AdditionalFeatures": [
+                                "Autosteer on city streets",
+                                "Traffic Light and Stop Sign Control"
+                            ],
+                            "DriverSupervision": "The currently enabled features require active driver supervision and do not make the vehicle autonomous.",
+                            "ActivationandUse": "The activation and use of these features are dependent on achieving reliability far in excess of human drivers as demonstrated by billions of miles of experience, as well as regulatory approval, which may take longer in some jurisdictions.",
+                            "ContinuousUpgrades": "As these self-driving features evolve, your car will be continuously upgraded through over-the-air software updates."
+                        },
+                        "SoftwareOptionsExcluded": "Software options are excluded from the federal tax credit price cap"
+                    },
+                    "Charging": {
+                        "Homechargingequipment": "is not included",
+                        "WallConnector": 550,
+                        "MobileConnector": 250
+                    }
+                },
+                "Images": {
+                    "FrontView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTX15,$PPSW,$WX00,$IBE00&view=FRONT34&model=mx&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "RimCloseup": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTX15,$PPSW,$WX00,$IBE00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "RearView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTX15,$PPSW,$WX00,$IBE00&view=REAR34&model=mx&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "SideView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTX15,$PPSW,$WX00,$IBE00&view=SIDE&model=mx&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "InteriorView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTX15,$PPSW,$IBE00,$ST03&view=INTERIOR&model=mx&size=1920&bkba_opt=2&crop=0,0,0,0&"
+                },
+                "OrderYourModelX": {
+                    "EstDelivery": "Oct - Nov 2023"
+                }
+            }
+        },
+        {
+            "Model S": {
+                "EstDelivery": "Oct - Nov 2023",
+                "PurchasePrice": {
+                    "VehiclePrice": 71300
+                },
+                "Features": {
+                    "Range": 405,
+                    "TopSpeed": 200,
+                    "0to60mph": 3.2,
+                    "DriveType": "Rear-Wheel Drive"
+                },
+                "FederalTaxCredit": {
+                    "Amount": 9500,
+                    "Details": "All new Model S vehicles currently qualify for a federal tax credit for eligible buyers. Reductions likely after Dec 31."
+                },
+                "PriceDetails": "All prices are shown without incentives or est. 3-year gas savings of $5,000.",
+                "FeatureDetails": {
+                    "Motor": [
+                        {
+                            "Amount": 71090,
+                            "Details": "Model S"
+                        },
+                        {
+                            "Amount": 86090,
+                            "Details": "Model S Plaid"
+                        }
+                    ],
+                    "TowHitch": [
+                        {
+                            "Amount": 1300,
+                            "Details": "High strength, Class II steel tow bar capable of towing up to 3,500 lbs"
+                        }
+                    ],
+                    "Paint": [
+                        "Solid Black",
+                        "Deep Blue Metallic",
+                        "Pearl White Multi-Coat",
+                        "Red Multi-Coat"
+                    ],
+                    "Wheels": [
+                        "19’’ Tempest Wheels",
+                        "21’’ Arachnid Wheels"
+                    ],
+                    "All_SeasonTires": "Range (EPA est.) : 405mi",
+                    "Interior": [
+                        "All Black",
+                        "Black and White",
+                        "Black and Tan"
+                    ],
+                    "Autopilot": {
+                        "EnhancedAutopilot": 8000,
+                        "Features": [
+                            "Navigate on Autopilot",
+                            "Auto Lane Change",
+                            "Autopark",
+                            "Summon",
+                            "Smart Summon"
+                        ],
+                        "FullSelf_DrivingCapability": {
+                            "Price": 16000,
+                            "CapabilityDetails": "Your car will be able to drive itself almost anywhere with minimal driver intervention and will continuously improve.",
+                            "Functionality": "All functionality of Basic Autopilot and EnhancedAutopilot.",
+                            "AdditionalFeatures": [
+                                "Autosteer on city streets",
+                                "Traffic Light and Stop Sign Control"
+                            ],
+                            "DriverSupervision": "The currently enabled features require active driver supervision and do not make the vehicle autonomous.",
+                            "ActivationandUse": "The activation and use of these features are dependent on achieving reliability far in excess of human drivers as demonstrated by billions of miles of experience, as well as regulatory approval, which may take longer in some jurisdictions.",
+                            "ContinuousUpgrades": "As these self-driving features evolve, your car will be continuously upgraded through over-the-air software updates."
+                        },
+                        "SoftwareOptionsExcluded": "Software options are excluded from the federal tax credit price cap"
+                    },
+                    "Charging": {
+                        "Homechargingequipment": "is not included",
+                        "WallConnector": 600,
+                        "MobileConnector": 280
+                    }
+                },
+                "Images": {
+                    "FrontView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTS13,$PPSW,$WS91,$IBE00&view=FRONT34&model=ms&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "RimCloseup": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTS13,$PPSW,$WS91,$IBE00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "RearView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTS13,$PPSW,$WS91,$IBE00&view=REAR34&model=ms&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "SideView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTS13,$PPSW,$WS91,$IBE00&view=REAR34&model=ms&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "InteriorView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTS13,$PPSW,$IBE00,$ST03&view=INTERIOR&model=ms&size=1920&bkba_opt=2&crop=0,0,0,0&"
+                },
+                "OrderYourModelS": {
+                    "EstDelivery": "Oct - Nov 2023"
+                }
+            }
+        },
+        {
+            "Model Y": {
+                "EstDelivery": "Nov - Dec 2023",
+                "PurchasePrice": {
+                    "VehiclePrice": 39600
+                },
+                "Features": {
+                    "Range": 244,
+                    "TopSpeed": 135,
+                    "0to60mph": 5.5,
+                    "DriveType": "Rear-Wheel Drive"
+                },
+                "FederalTaxCredit": {
+                    "Amount": 7200,
+                    "Details": "All new Model Y vehicles currently qualify for a federal tax credit for eligible buyers. Reductions likely after Dec 31."
+                },
+                "PriceDetails": "All prices are shown without incentives or est. 3-year gas savings of $2,500.",
+                "FeatureDetails": {
+                    "Motor": [
+                        {
+                            "Amount": 39390,
+                            "Details": "Model Y"
+                        },
+                        {
+                            "Amount": 43390,
+                            "Details": "Model Y Performance"
+                        }
+                    ],
+                    "TowHitch": [
+                        {
+                            "Amount": 1250,
+                            "Details": "High strength, Class II steel tow bar capable of towing up to 3,500 lbs"
+                        }
+                    ],
+                    "Paint": [
+                        "Solid Black",
+                        "Deep Blue Metallic",
+                        "Pearl White Multi-Coat",
+                        "Red Multi-Coat"
+                    ],
+                    "Wheels": [
+                        "19’’ Gemini Wheels",
+                        "20’’ Induction Wheels"
+                    ],
+                    "All_SeasonTires": "Range (EPA est.) : 244mi",
+                    "Interior": [
+                        "All Black",
+                        "Black and White",
+                        "Black and Tan"
+                    ],
+                    "Autopilot": {
+                        "EnhancedAutopilot": 5800,
+                        "Features": [
+                            "Navigate on Autopilot",
+                            "Auto Lane Change",
+                            "Autopark",
+                            "Summon",
+                            "Smart Summon"
+                        ],
+                        "FullSelf_DrivingCapability": {
+                            "Price": 11800,
+                            "CapabilityDetails": "Your car will be able to drive itself almost anywhere with minimal driver intervention and will continuously improve.",
+                            "Functionality": "All functionality of Basic Autopilot and EnhancedAutopilot.",
+                            "AdditionalFeatures": [
+                                "Autosteer on city streets",
+                                "Traffic Light and Stop Sign Control"
+                            ],
+                            "DriverSupervision": "The currently enabled features require active driver supervision and do not make the vehicle autonomous.",
+                            "ActivationandUse": "The activation and use of these features are dependent on achieving reliability far in excess of human drivers as demonstrated by billions of miles of experience, as well as regulatory approval, which may take longer in some jurisdictions.",
+                            "ContinuousUpgrades": "As these self-driving features evolve, your car will be continuously upgraded through over-the-air software updates."
+                        },
+                        "SoftwareOptionsExcluded": "Software options are excluded from the federal tax credit price cap"
+                    },
+                    "Charging": {
+                        "Homechargingequipment": "is not included",
+                        "WallConnector": 450,
+                        "MobileConnector": 210
+                    }
+                },
+                "Images": {
+                    "FrontView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTY11,$PMNG,$WY19B,$INPB0&view=FRONT34&model=my&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "RimCloseup": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTY11,$PMNG,$WY19B,$INPB0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=2&crop=0,0,80,0&",
+                    "RearView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTY11,$PMNG,$WY19B,$INPB0&view=REAR34&model=my&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "SideView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTY11,$PMNG,$WY19B,$INPB0&view=SIDE&model=my&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "InteriorView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$INPB0,$PMNG,$DV4W&view=STUD_SEAT&model=my&size=1441&bkba_opt=2&crop=0,0,0,0&"
+                },
+                "OrderYourModelY": {
+                    "EstDelivery": "Nov - Dec 2023"
+                }
+            }
+        },
+        {
+            "Model A": {
+                "EstDelivery": "Sep - Oct 2023",
+                "PurchasePrice": {
+                    "VehiclePrice": 40240
+                },
+                "Features": {
+                    "Range": 322,
+                    "TopSpeed": 150,
+                    "0to60mph": 4.8,
+                    "DriveType": "Rear-Wheel Drive"
+                },
+                "FederalTaxCredit": {
+                    "Amount": 7500,
+                    "Details": "All new Model 3 vehicles currently qualify for a federal tax credit for eligible buyers. Reductions likely after Dec 31."
+                },
+                "PriceDetails": "All prices are shown without incentives or est. 3-year gas savings of $3,000.",
+                "FeatureDetails": {
+                    "Motor": [
+                        {
+                            "Amount": 32540,
+                            "Details": "Model A"
+                        },
+                        {
+                            "Amount": 36740,
+                            "Details": "Model A Long Range"
+                        },
+                        {
+                            "Amount": 52658,
+                            "Details": "Model A Performance"
+                        }
+                    ],
+                    "TowHitch": [
+                        {
+                            "Amount": 1000,
+                            "Details": "High strength, Class II steel tow bar capable of towing up to 3,500 lbs"
+                        }
+                    ],
+                    "Paint": [
+                        "Midnight Silver Metallic",
+                        "Pearl White Multi-Coat",
+                        "Deep Blue Metallic",
+                        "Solid Black",
+                        "Red Multi-Coat",
+                        "Midnight Silver Metallic"
+                    ],
+                    "Wheels": [
+                        "18’’ Aero Wheels",
+                        "19’’ Sport Wheels",
+                        "18’’ Aero Wheels"
+                    ],
+                    "All_SeasonTires": "Range (EPA est.) : 272mi",
+                    "Interior": [
+                        "All Black",
+                        "Black and White",
+                        "All Black"
+                    ],
+                    "Autopilot": {
+                        "EnhancedAutopilot": 6000,
+                        "Features": [
+                            "Navigate on Autopilot",
+                            "Auto Lane Change",
+                            "Autopark",
+                            "Summon",
+                            "Smart Summon"
+                        ],
+                        "FullSelf_DrivingCapability": {
+                            "Price": 12000,
+                            "CapabilityDetails": "Your car will be able to drive itself almost anywhere with minimal driver intervention and will continuously improve.",
+                            "Functionality": "All functionality of Basic Autopilot and EnhancedAutopilot.",
+                            "AdditionalFeatures": [
+                                "Autosteer on city streets",
+                                "Traffic Light and Stop Sign Control"
+                            ],
+                            "DriverSupervision": "The currently enabled features require active driver supervision and do not make the vehicle autonomous.",
+                            "ActivationandUse": "The activation and use of these features are dependent on achieving reliability far in excess of human drivers as demonstrated by billions of miles of experience, as well as regulatory approval, which may take longer in some jurisdictions.",
+                            "ContinuousUpgrades": "As these self-driving features evolve, your car will be continuously upgraded through over-the-air software updates."
+                        },
+                        "SoftwareOptionsExcluded": "Software options are excluded from the federal tax credit price cap"
+                    },
+                    "Charging": {
+                        "Homechargingequipment": "is not included",
+                        "WallConnector": 475,
+                        "MobileConnector": 230
+                    }
+                },
+                "Images": {
+                    "FrontView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PMNG,$W40B,$IBB1&view=STUD_FRONT34&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0",
+                    "RimCloseup": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PMNG,$W40B,$IBB1&view=STUD_RIMCLOSEUP&model=m3&size=1920&bkba_opt=2&crop=0,0,80,0",
+                    "RearView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PMNG,$W40B,$IBB1&view=STUD_REAR34&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0",
+                    "SideView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MT322,$PMNG,$W40B,$IBB1&view=STUD_SIDEVIEW&model=m3&size=1920&bkba_opt=2&crop=0,0,0,0",
+                    "InteriorView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$IBB1,$PMNG,$MT322&view=STUD_INTERIOR&model=m3&size=1441&bkba_opt=2&crop=0,0,0,0"
+                },
+                "OrderYourModel3": {
+                    "EstDelivery": "Sep - Oct 2023"
+                }
+            }
+        },
+        {
+            "Model B": {
+                "EstDelivery": "Oct - Nov 2023",
+                "PurchasePrice": {
+                    "VehiclePrice": 60250
+                },
+                "Features": {
+                    "Range": 380,
+                    "TopSpeed": 165,
+                    "0to60mph": 4.8,
+                    "DriveType": "All-Wheel Drive"
+                },
+                "FederalTaxCredit": {
+                    "Amount": 8500,
+                    "Details": "All new Model X vehicles currently qualify for a federal tax credit for eligible buyers. Reductions likely after Dec 31."
+                },
+                "PriceDetails": "All prices are shown without incentives or est. 3-year gas savings of $4,000.",
+                "FeatureDetails": {
+                    "Motor": [
+                        {
+                            "Amount": 57504,
+                            "Details": "Model B"
+                        },
+                        {
+                            "Amount": 72548,
+                            "Details": "Model B Performance"
+                        }
+                    ],
+                    "TowHitch": [
+                        {
+                            "Amount": 1500,
+                            "Details": "High strength, Class II steel tow bar capable of towing up to 3,500 lbs"
+                        }
+                    ],
+                    "Paint": [
+                        "Solid Black",
+                        "Deep Blue Metallic",
+                        "Pearl White Multi-Coat",
+                        "Red Multi-Coat"
+                    ],
+                    "Wheels": [
+                        "20’’ Sonic Carbon Wheels",
+                        "22’’ Turbine Wheels"
+                    ],
+                    "All_SeasonTires": "Range (EPA est.) : 350mi",
+                    "Interior": [
+                        "All Black",
+                        "Black and White",
+                        "Black and Tan"
+                    ],
+                    "Autopilot": {
+                        "EnhancedAutopilot": 7000,
+                        "Features": [
+                            "Navigate on Autopilot",
+                            "Auto Lane Change",
+                            "Autopark",
+                            "Summon",
+                            "Smart Summon"
+                        ],
+                        "FullSelf_DrivingCapability": {
+                            "Price": 15000,
+                            "CapabilityDetails": "Your car will be able to drive itself almost anywhere with minimal driver intervention and will continuously improve.",
+                            "Functionality": "All functionality of Basic Autopilot and EnhancedAutopilot.",
+                            "AdditionalFeatures": [
+                                "Autosteer on city streets",
+                                "Traffic Light and Stop Sign Control"
+                            ],
+                            "DriverSupervision": "The currently enabled features require active driver supervision and do not make the vehicle autonomous.",
+                            "ActivationandUse": "The activation and use of these features are dependent on achieving reliability far in excess of human drivers as demonstrated by billions of miles of experience, as well as regulatory approval, which may take longer in some jurisdictions.",
+                            "ContinuousUpgrades": "As these self-driving features evolve, your car will be continuously upgraded through over-the-air software updates."
+                        },
+                        "SoftwareOptionsExcluded": "Software options are excluded from the federal tax credit price cap"
+                    },
+                    "Charging": {
+                        "Homechargingequipment": "is not included",
+                        "WallConnector": 550,
+                        "MobileConnector": 250
+                    }
+                },
+                "Images": {
+                    "FrontView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTX15,$PPSW,$WX00,$IBE00&view=FRONT34&model=mx&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "RimCloseup": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTX15,$PPSW,$WX00,$IBE00&view=RIMCLOSEUP&model=mx&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "RearView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTX15,$PPSW,$WX00,$IBE00&view=REAR34&model=mx&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "SideView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTX15,$PPSW,$WX00,$IBE00&view=SIDE&model=mx&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "InteriorView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTX15,$PPSW,$IBE00,$ST03&view=INTERIOR&model=mx&size=1920&bkba_opt=2&crop=0,0,0,0&"
+                },
+                "OrderYourModelX": {
+                    "EstDelivery": "Oct - Nov 2023"
+                }
+            }
+        },
+        {
+            "Model C": {
+                "EstDelivery": "Oct - Nov 2023",
+                "PurchasePrice": {
+                    "VehiclePrice": 71300
+                },
+                "Features": {
+                    "Range": 400,
+                    "TopSpeed": 210,
+                    "0to60mph": 3.6,
+                    "DriveType": "Rear-Wheel Drive"
+                },
+                "FederalTaxCredit": {
+                    "Amount": 9500,
+                    "Details": "All new Model S vehicles currently qualify for a federal tax credit for eligible buyers. Reductions likely after Dec 31."
+                },
+                "PriceDetails": "All prices are shown without incentives or est. 3-year gas savings of $5,000.",
+                "FeatureDetails": {
+                    "Motor": [
+                        {
+                            "Amount": 65164,
+                            "Details": "Model C"
+                        },
+                        {
+                            "Amount": 75684,
+                            "Details": "Model C Long Range"
+                        },
+                        {
+                            "Amount": 82165,
+                            "Details": "Model C Performance"
+                        }
+                    ],
+                    "TowHitch": [
+                        {
+                            "Amount": 1300,
+                            "Details": "High strength, Class II steel tow bar capable of towing up to 3,500 lbs"
+                        }
+                    ],
+                    "Paint": [
+                        "Solid Black",
+                        "Deep Blue Metallic",
+                        "Pearl White Multi-Coat",
+                        "Red Multi-Coat"
+                    ],
+                    "Wheels": [
+                        "19’’ Tempest Wheels",
+                        "21’’ Arachnid Wheels"
+                    ],
+                    "All_SeasonTires": "Range (EPA est.) : 405mi",
+                    "Interior": [
+                        "All Black",
+                        "Black and White",
+                        "Black and Tan"
+                    ],
+                    "Autopilot": {
+                        "EnhancedAutopilot": 8000,
+                        "Features": [
+                            "Navigate on Autopilot",
+                            "Auto Lane Change",
+                            "Autopark",
+                            "Summon",
+                            "Smart Summon"
+                        ],
+                        "FullSelf_DrivingCapability": {
+                            "Price": 16000,
+                            "CapabilityDetails": "Your car will be able to drive itself almost anywhere with minimal driver intervention and will continuously improve.",
+                            "Functionality": "All functionality of Basic Autopilot and EnhancedAutopilot.",
+                            "AdditionalFeatures": [
+                                "Autosteer on city streets",
+                                "Traffic Light and Stop Sign Control"
+                            ],
+                            "DriverSupervision": "The currently enabled features require active driver supervision and do not make the vehicle autonomous.",
+                            "ActivationandUse": "The activation and use of these features are dependent on achieving reliability far in excess of human drivers as demonstrated by billions of miles of experience, as well as regulatory approval, which may take longer in some jurisdictions.",
+                            "ContinuousUpgrades": "As these self-driving features evolve, your car will be continuously upgraded through over-the-air software updates."
+                        },
+                        "SoftwareOptionsExcluded": "Software options are excluded from the federal tax credit price cap"
+                    },
+                    "Charging": {
+                        "Homechargingequipment": "is not included",
+                        "WallConnector": 600,
+                        "MobileConnector": 280
+                    }
+                },
+                "Images": {
+                    "FrontView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTS13,$PPSW,$WS91,$IBE00&view=FRONT34&model=ms&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "RimCloseup": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTS13,$PPSW,$WS91,$IBE00&view=RIMCLOSEUP&model=ms&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "RearView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTS13,$PPSW,$WS91,$IBE00&view=REAR34&model=ms&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "SideView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTS13,$PPSW,$WS91,$IBE00&view=REAR34&model=ms&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "InteriorView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTS13,$PPSW,$IBE00,$ST03&view=INTERIOR&model=ms&size=1920&bkba_opt=2&crop=0,0,0,0&"
+                },
+                "OrderYourModelS": {
+                    "EstDelivery": "Oct - Nov 2023"
+                }
+            }
+        },
+        {
+            "Model D": {
+                "EstDelivery": "Nov - Dec 2023",
+                "PurchasePrice": {
+                    "VehiclePrice": 39600
+                },
+                "Features": {
+                    "Range": 254,
+                    "TopSpeed": 135,
+                    "0to60mph": 6.4,
+                    "DriveType": "Rear-Wheel Drive"
+                },
+                "FederalTaxCredit": {
+                    "Amount": 7200,
+                    "Details": "All new Model Y vehicles currently qualify for a federal tax credit for eligible buyers. Reductions likely after Dec 31."
+                },
+                "PriceDetails": "All prices are shown without incentives or est. 3-year gas savings of $2,500.",
+                "FeatureDetails": {
+                    "Motor": [
+                        {
+                            "Amount": 29740,
+                            "Details": "Model D"
+                        },
+                        {
+                            "Amount": 36740,
+                            "Details": "Model D Long Range"
+                        },
+                        {
+                            "Amount": 42740,
+                            "Details": "Model D Performance"
+                        }
+                    ],
+                    "TowHitch": [
+                        {
+                            "Amount": 1100,
+                            "Details": "High strength, Class II steel tow bar capable of towing up to 3,500 lbs"
+                        }
+                    ],
+                    "Paint": [
+                        "Solid Black",
+                        "Deep Blue Metallic",
+                        "Pearl White Multi-Coat",
+                        "Red Multi-Coat"
+                    ],
+                    "Wheels": [
+                        "19’’ Gemini Wheels",
+                        "20’’ Induction Wheels"
+                    ],
+                    "All_SeasonTires": "Range (EPA est.) : 244mi",
+                    "Interior": [
+                        "All Black",
+                        "Black and White",
+                        "Black and Tan"
+                    ],
+                    "Autopilot": {
+                        "EnhancedAutopilot": 5800,
+                        "Features": [
+                            "Navigate on Autopilot",
+                            "Auto Lane Change",
+                            "Autopark",
+                            "Summon",
+                            "Smart Summon"
+                        ],
+                        "FullSelf_DrivingCapability": {
+                            "Price": 11800,
+                            "CapabilityDetails": "Your car will be able to drive itself almost anywhere with minimal driver intervention and will continuously improve.",
+                            "Functionality": "All functionality of Basic Autopilot and EnhancedAutopilot.",
+                            "AdditionalFeatures": [
+                                "Autosteer on city streets",
+                                "Traffic Light and Stop Sign Control"
+                            ],
+                            "DriverSupervision": "The currently enabled features require active driver supervision and do not make the vehicle autonomous.",
+                            "ActivationandUse": "The activation and use of these features are dependent on achieving reliability far in excess of human drivers as demonstrated by billions of miles of experience, as well as regulatory approval, which may take longer in some jurisdictions.",
+                            "ContinuousUpgrades": "As these self-driving features evolve, your car will be continuously upgraded through over-the-air software updates."
+                        },
+                        "SoftwareOptionsExcluded": "Software options are excluded from the federal tax credit price cap"
+                    },
+                    "Charging": {
+                        "Homechargingequipment": "is not included",
+                        "WallConnector": 450,
+                        "MobileConnector": 210
+                    }
+                },
+                "Images": {
+                    "FrontView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTY11,$PMNG,$WY19B,$INPB0&view=FRONT34&model=my&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "RimCloseup": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTY11,$PMNG,$WY19B,$INPB0&view=RIMCLOSEUP&model=my&size=1920&bkba_opt=2&crop=0,0,80,0&",
+                    "RearView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTY11,$PMNG,$WY19B,$INPB0&view=REAR34&model=my&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "SideView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$MTY11,$PMNG,$WY19B,$INPB0&view=SIDE&model=my&size=1920&bkba_opt=2&crop=0,0,0,0&",
+                    "InteriorView": "https://static-assets.tesla.com/configurator/compositor?context=design_studio_2&options=$INPB0,$PMNG,$DV4W&view=STUD_SEAT&model=my&size=1441&bkba_opt=2&crop=0,0,0,0&"
+                },
+                "OrderYourModelY": {
+                    "EstDelivery": "Nov _ Dec 2023"
+                }
+            }
+        }
+    ]
+}
